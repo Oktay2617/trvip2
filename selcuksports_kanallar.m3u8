@@ -4,10 +4,6 @@
 #EXT-X-ORIGIN:https://main.uxsyplayerb03b3c895b.click
 #EXTINF:-1 tvg-name="Rams Başakşehir - Galatasaray HD1" group-title="Maç Yayınları",Rams Başakşehir - Galatasaray HD1
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcukobs1/playlist.m3u8
-#EXTINF:-1 tvg-name="Rams Başakşehir - Galatasaray" group-title="Maç Yayınları",Rams Başakşehir - Galatasaray
-https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcukbeinsports1/playlist.m3u8
-#EXTINF:-1 tvg-name="Angers - Monaco" group-title="Maç Yayınları",Angers - Monaco
-https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcukbeinsports2/playlist.m3u8
 #EXTINF:-1 tvg-name="St. Etienne - Le Mans" group-title="Maç Yayınları",St. Etienne - Le Mans
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcukbeinsports5/playlist.m3u8
 #EXTINF:-1 tvg-name="Bochum - Hertha Berlin" group-title="Maç Yayınları",Bochum - Hertha Berlin
@@ -24,10 +20,6 @@ https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcukbeinsports3/playlist.m3
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuksmartspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Rams Başakşehir - Galatasaray HD1" group-title="Maç Yayınları",Rams Başakşehir - Galatasaray HD1
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcukobs1/playlist.m3u8
-#EXTINF:-1 tvg-name="Rams Başakşehir - Galatasaray" group-title="Maç Yayınları",Rams Başakşehir - Galatasaray
-https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcukbeinsports1/playlist.m3u8
-#EXTINF:-1 tvg-name="Angers - Monaco" group-title="Maç Yayınları",Angers - Monaco
-https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcukbeinsports2/playlist.m3u8
 #EXTINF:-1 tvg-name="St. Etienne - Le Mans" group-title="Maç Yayınları",St. Etienne - Le Mans
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcukbeinsports5/playlist.m3u8
 #EXTINF:-1 tvg-name="Bochum - Hertha Berlin" group-title="Maç Yayınları",Bochum - Hertha Berlin

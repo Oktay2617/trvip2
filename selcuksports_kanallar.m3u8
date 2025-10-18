@@ -2,12 +2,6 @@
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXT-X-REFERER:https://main.uxsyplayerb03b3c895b.click/
 #EXT-X-ORIGIN:https://main.uxsyplayerb03b3c895b.click
-#EXTINF:-1 tvg-name="Preussen Münster - Dynamo Dresden" group-title="Maç Yayınları",Preussen Münster - Dynamo Dresden
-https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktivibuspor4/playlist.m3u8
-#EXTINF:-1 tvg-name="Karlsruhe - Kaiserslautern" group-title="Maç Yayınları",Karlsruhe - Kaiserslautern
-https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktivibuspor3/playlist.m3u8
-#EXTINF:-1 tvg-name="Paderborn - Arminia Bielefeld" group-title="Maç Yayınları",Paderborn - Arminia Bielefeld
-https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktivibuspor2/playlist.m3u8
 #EXTINF:-1 tvg-name="Nottingham Forest - Chelsea" group-title="Maç Yayınları",Nottingham Forest - Chelsea
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports3/playlist.m3u8
 #EXTINF:-1 tvg-name="Konyaspor - Kocaelispor" group-title="Maç Yayınları",Konyaspor - Kocaelispor
@@ -20,62 +14,60 @@ https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports4/playlist.m3
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 tvg-name="Adana Demirspor - Sakaryaspor" group-title="Maç Yayınları",Adana Demirspor - Sakaryaspor
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktrtspor/playlist.m3u8
-#EXTINF:-1 tvg-name="Leipzig - Hamburg" group-title="Maç Yayınları",Leipzig - Hamburg
-https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktivibuspor3/playlist.m3u8
 #EXTINF:-1 tvg-name="Wolfsburg - Stuttgart" group-title="Maç Yayınları",Wolfsburg - Stuttgart
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktivibuspor4/playlist.m3u8
-#EXTINF:-1 tvg-name="Brighton - Newcastle" group-title="Maç Yayınları",Brighton - Newcastle
-https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports4/playlist.m3u8
+#EXTINF:-1 tvg-name="Leipzig - Hamburg" group-title="Maç Yayınları",Leipzig - Hamburg
+https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktivibuspor3/playlist.m3u8
+#EXTINF:-1 tvg-name="Mainz - Bayer Leverkusen" group-title="Maç Yayınları",Mainz - Bayer Leverkusen
+https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktivibuspor2/playlist.m3u8
 #EXTINF:-1 tvg-name="Ç.Rizespor - Trabzonspor" group-title="Maç Yayınları",Ç.Rizespor - Trabzonspor
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports1/playlist.m3u8
 #EXTINF:-1 tvg-name="Manchester City - Everton" group-title="Maç Yayınları",Manchester City - Everton
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports3/playlist.m3u8
-#EXTINF:-1 tvg-name="Beşiktaş - Gençlerbirliği" group-title="Maç Yayınları",Beşiktaş - Gençlerbirliği
-https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports2/playlist.m3u8
 #EXTINF:-1 tvg-name="Crystal Palace - Bournemouth" group-title="Maç Yayınları",Crystal Palace - Bournemouth
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsportsmax2/playlist.m3u8
+#EXTINF:-1 tvg-name="Beşiktaş - Gençlerbirliği" group-title="Maç Yayınları",Beşiktaş - Gençlerbirliği
+https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports2/playlist.m3u8
+#EXTINF:-1 tvg-name="Brighton - Newcastle" group-title="Maç Yayınları",Brighton - Newcastle
+https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports4/playlist.m3u8
 #EXTINF:-1 tvg-name="Barcelona - Girona" group-title="Maç Yayınları",Barcelona - Girona
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukssport/playlist.m3u8
 #EXTINF:-1 tvg-name="Torino - Napoli" group-title="Maç Yayınları",Torino - Napoli
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 tvg-name="Hatayspor - Çorum FK" group-title="Maç Yayınları",Hatayspor - Çorum FK
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktrtspor/playlist.m3u8
-#EXTINF:-1 tvg-name="Fulham - Arsenal" group-title="Maç Yayınları",Fulham - Arsenal
-https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports3/playlist.m3u8
 #EXTINF:-1 tvg-name="Bayern Münih - B.Dortmund" group-title="Maç Yayınları",Bayern Münih - B.Dortmund
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktivibuspor1/playlist.m3u8
 #EXTINF:-1 tvg-name="Villarreal - Real Betis" group-title="Maç Yayınları",Villarreal - Real Betis
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukssport/playlist.m3u8
-#EXTINF:-1 tvg-name="Utrecht - Volendam" group-title="Maç Yayınları",Utrecht - Volendam
-https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktivibuspor4/playlist.m3u8
+#EXTINF:-1 tvg-name="Fulham - Arsenal" group-title="Maç Yayınları",Fulham - Arsenal
+https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports3/playlist.m3u8
 #EXTINF:-1 tvg-name="PSV - G.A. Eagles" group-title="Maç Yayınları",PSV - G.A. Eagles
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktivibuspor3/playlist.m3u8
-#EXTINF:-1 tvg-name="Angers - Monaco" group-title="Maç Yayınları",Angers - Monaco
-https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports2/playlist.m3u8
+#EXTINF:-1 tvg-name="Utrecht - Volendam" group-title="Maç Yayınları",Utrecht - Volendam
+https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktivibuspor4/playlist.m3u8
 #EXTINF:-1 tvg-name="Rams Başakşehir - Galatasaray" group-title="Maç Yayınları",Rams Başakşehir - Galatasaray
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports1/playlist.m3u8
+#EXTINF:-1 tvg-name="Angers - Monaco" group-title="Maç Yayınları",Angers - Monaco
+https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports2/playlist.m3u8
 #EXTINF:-1 tvg-name="St. Etienne - Le Mans" group-title="Maç Yayınları",St. Etienne - Le Mans
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports5/playlist.m3u8
 #EXTINF:-1 tvg-name="Bochum - Hertha Berlin" group-title="Maç Yayınları",Bochum - Hertha Berlin
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktivibuspor2/playlist.m3u8
 #EXTINF:-1 tvg-name="Roma - Inter" group-title="Maç Yayınları",Roma - Inter
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukssport2/playlist.m3u8
-#EXTINF:-1 tvg-name="Ajax - AZ Alkmaar" group-title="Maç Yayınları",Ajax - AZ Alkmaar
-https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktivibuspor3/playlist.m3u8
 #EXTINF:-1 tvg-name="Atletico Madrid - Osasuna" group-title="Maç Yayınları",Atletico Madrid - Osasuna
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukssport/playlist.m3u8
+#EXTINF:-1 tvg-name="Ajax - AZ Alkmaar" group-title="Maç Yayınları",Ajax - AZ Alkmaar
+https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktivibuspor3/playlist.m3u8
 #EXTINF:-1 tvg-name="Marsilya - Le Havre" group-title="Maç Yayınları",Marsilya - Le Havre
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports3/playlist.m3u8
 #EXTINF:-1 tvg-name="Türk Telekom - Petkimspor" group-title="Maç Yayınları",Türk Telekom - Petkimspor
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports5/playlist.m3u8
 #EXTINF:-1 tvg-name="Bursaspor - Manisa BB" group-title="Maç Yayınları",Bursaspor - Manisa BB
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports5/playlist.m3u8
-#EXTINF:-1 tvg-name="Preussen Münster - Dynamo Dresden" group-title="Maç Yayınları",Preussen Münster - Dynamo Dresden
-https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktivibuspor4/playlist.m3u8
-#EXTINF:-1 tvg-name="Karlsruhe - Kaiserslautern" group-title="Maç Yayınları",Karlsruhe - Kaiserslautern
-https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktivibuspor3/playlist.m3u8
-#EXTINF:-1 tvg-name="Paderborn - Arminia Bielefeld" group-title="Maç Yayınları",Paderborn - Arminia Bielefeld
-https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktivibuspor2/playlist.m3u8
+#EXTINF:-1 tvg-name="Iberostar Tenerife - Murcia" group-title="Maç Yayınları",Iberostar Tenerife - Murcia
+https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuksmartspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Nottingham Forest - Chelsea" group-title="Maç Yayınları",Nottingham Forest - Chelsea
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports3/playlist.m3u8
 #EXTINF:-1 tvg-name="Konyaspor - Kocaelispor" group-title="Maç Yayınları",Konyaspor - Kocaelispor
@@ -88,50 +80,52 @@ https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports4/playlist.m3
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 tvg-name="Adana Demirspor - Sakaryaspor" group-title="Maç Yayınları",Adana Demirspor - Sakaryaspor
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktrtspor/playlist.m3u8
-#EXTINF:-1 tvg-name="Leipzig - Hamburg" group-title="Maç Yayınları",Leipzig - Hamburg
-https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktivibuspor3/playlist.m3u8
 #EXTINF:-1 tvg-name="Wolfsburg - Stuttgart" group-title="Maç Yayınları",Wolfsburg - Stuttgart
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktivibuspor4/playlist.m3u8
-#EXTINF:-1 tvg-name="Brighton - Newcastle" group-title="Maç Yayınları",Brighton - Newcastle
-https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports4/playlist.m3u8
+#EXTINF:-1 tvg-name="Leipzig - Hamburg" group-title="Maç Yayınları",Leipzig - Hamburg
+https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktivibuspor3/playlist.m3u8
+#EXTINF:-1 tvg-name="Mainz - Bayer Leverkusen" group-title="Maç Yayınları",Mainz - Bayer Leverkusen
+https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktivibuspor2/playlist.m3u8
 #EXTINF:-1 tvg-name="Ç.Rizespor - Trabzonspor" group-title="Maç Yayınları",Ç.Rizespor - Trabzonspor
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports1/playlist.m3u8
 #EXTINF:-1 tvg-name="Manchester City - Everton" group-title="Maç Yayınları",Manchester City - Everton
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports3/playlist.m3u8
-#EXTINF:-1 tvg-name="Beşiktaş - Gençlerbirliği" group-title="Maç Yayınları",Beşiktaş - Gençlerbirliği
-https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports2/playlist.m3u8
 #EXTINF:-1 tvg-name="Crystal Palace - Bournemouth" group-title="Maç Yayınları",Crystal Palace - Bournemouth
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsportsmax2/playlist.m3u8
+#EXTINF:-1 tvg-name="Beşiktaş - Gençlerbirliği" group-title="Maç Yayınları",Beşiktaş - Gençlerbirliği
+https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports2/playlist.m3u8
+#EXTINF:-1 tvg-name="Brighton - Newcastle" group-title="Maç Yayınları",Brighton - Newcastle
+https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports4/playlist.m3u8
 #EXTINF:-1 tvg-name="Barcelona - Girona" group-title="Maç Yayınları",Barcelona - Girona
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukssport/playlist.m3u8
 #EXTINF:-1 tvg-name="Torino - Napoli" group-title="Maç Yayınları",Torino - Napoli
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 tvg-name="Hatayspor - Çorum FK" group-title="Maç Yayınları",Hatayspor - Çorum FK
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktrtspor/playlist.m3u8
-#EXTINF:-1 tvg-name="Fulham - Arsenal" group-title="Maç Yayınları",Fulham - Arsenal
-https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports3/playlist.m3u8
 #EXTINF:-1 tvg-name="Bayern Münih - B.Dortmund" group-title="Maç Yayınları",Bayern Münih - B.Dortmund
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktivibuspor1/playlist.m3u8
 #EXTINF:-1 tvg-name="Villarreal - Real Betis" group-title="Maç Yayınları",Villarreal - Real Betis
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukssport/playlist.m3u8
-#EXTINF:-1 tvg-name="Utrecht - Volendam" group-title="Maç Yayınları",Utrecht - Volendam
-https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktivibuspor4/playlist.m3u8
+#EXTINF:-1 tvg-name="Fulham - Arsenal" group-title="Maç Yayınları",Fulham - Arsenal
+https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports3/playlist.m3u8
 #EXTINF:-1 tvg-name="PSV - G.A. Eagles" group-title="Maç Yayınları",PSV - G.A. Eagles
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktivibuspor3/playlist.m3u8
-#EXTINF:-1 tvg-name="Angers - Monaco" group-title="Maç Yayınları",Angers - Monaco
-https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports2/playlist.m3u8
+#EXTINF:-1 tvg-name="Utrecht - Volendam" group-title="Maç Yayınları",Utrecht - Volendam
+https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktivibuspor4/playlist.m3u8
 #EXTINF:-1 tvg-name="Rams Başakşehir - Galatasaray" group-title="Maç Yayınları",Rams Başakşehir - Galatasaray
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports1/playlist.m3u8
+#EXTINF:-1 tvg-name="Angers - Monaco" group-title="Maç Yayınları",Angers - Monaco
+https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports2/playlist.m3u8
 #EXTINF:-1 tvg-name="St. Etienne - Le Mans" group-title="Maç Yayınları",St. Etienne - Le Mans
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports5/playlist.m3u8
 #EXTINF:-1 tvg-name="Bochum - Hertha Berlin" group-title="Maç Yayınları",Bochum - Hertha Berlin
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktivibuspor2/playlist.m3u8
 #EXTINF:-1 tvg-name="Roma - Inter" group-title="Maç Yayınları",Roma - Inter
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukssport2/playlist.m3u8
-#EXTINF:-1 tvg-name="Ajax - AZ Alkmaar" group-title="Maç Yayınları",Ajax - AZ Alkmaar
-https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktivibuspor3/playlist.m3u8
 #EXTINF:-1 tvg-name="Atletico Madrid - Osasuna" group-title="Maç Yayınları",Atletico Madrid - Osasuna
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukssport/playlist.m3u8
+#EXTINF:-1 tvg-name="Ajax - AZ Alkmaar" group-title="Maç Yayınları",Ajax - AZ Alkmaar
+https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcuktivibuspor3/playlist.m3u8
 #EXTINF:-1 tvg-name="Marsilya - Le Havre" group-title="Maç Yayınları",Marsilya - Le Havre
 https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports3/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 1" group-title="BeinSports",Bein Sports 1

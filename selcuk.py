@@ -8,7 +8,10 @@ from playwright.sync_api import sync_playwright, Error as PlaywrightError, Timeo
 # Güncel adresi bulmak için kullanılacak portal adresi
 PORTAL_DOMAIN = "https://www.selcuksportshd.is/"
 
-# --- YENİ FONKSİYON: GÜNCEL DOMAIN'İ BULMA ---
+# --- YENİ ---
+# com.gunes.tv uygulamanızın global olarak kullanmasını istediğiniz User-Agent
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+
 def find_working_domain(page):
     """
     Portal sayfasını ziyaret eder ve 'a.site-button' class'ına sahip
@@ -18,14 +21,13 @@ def find_working_domain(page):
     try:
         page.goto(PORTAL_DOMAIN, timeout=20000, wait_until='domcontentloaded')
         
-        # Sizin belirttiğiniz CSS seçici
-        selector = "a.site-button"
-        page.wait_for_selector(selector, timeout=10000)
+        selector = 'a.site-button:has(img[alt="Site Giriş"])' # Selçuk Sports için
         
+        page.wait_for_selector(selector, timeout=10000)
         link_element = page.query_selector(selector)
         
         if not link_element:
-             print("-> ❌ Portal sayfasında 'a.site-button' elementi bulunamadı.")
+             print("-> ❌ Portal sayfasında 'Site Giriş' linki bulunamadı.")
              return None
         
         domain = link_element.get_attribute('href')
@@ -34,7 +36,6 @@ def find_working_domain(page):
             print("-> ❌ Link elementinde 'href' özelliği bulunamadı.")
             return None
 
-        # Domain'i temizle (sonundaki '/' karakterini kaldır)
         domain = domain.rstrip('/')
         print(f"✅ Güncel domain başarıyla bulundu: {domain}")
         return domain
@@ -43,7 +44,6 @@ def find_working_domain(page):
         print(f"❌ Portal sayfasına ulaşılamadı veya domain alınamadı: {e.__class__.__name__}")
         return None
 
-# --- GÜNCELLENEN FONKSİYON: KANAL GRUPLAMA MANTIĞI ---
 def get_channel_group(channel_name):
     """
     Verilen kanal ismine göre bir grup adı döndürür.
@@ -64,11 +64,10 @@ def get_channel_group(channel_name):
                 return group
     return "Maç Yayınları"
 
-# --- GÜNCELLENEN FONKSİYON: ARTIK DOMAIN PARAMETRESİ ALIYOR ---
 def scrape_channel_links(page, domain_to_scrape):
     """
     Selçuk Sports ana sayfasını ziyaret eder ve tüm kanalları
-    isim, URL ve grup bilgisiyle birlikte toplar.
+    isim, URL, grup ve GEREKLİ REFERER BİLGİSİ (origin) ile toplar.
     """
     print(f"\n📡 Kanallar {domain_to_scrape} adresinden çekiliyor...")
     channels = []
@@ -88,17 +87,26 @@ def scrape_channel_links(page, domain_to_scrape):
             if name_element and player_url:
                 channel_name = name_element.inner_text().strip()
                 
-                # --- GÜNCELLENDİ: Global değişken yerine parametreyi kullan ---
                 if player_url.startswith('/'):
                     base_domain = domain_to_scrape.rstrip('/')
                     player_url = f"{base_domain}{player_url}"
                 
+                try:
+                    parsed_player_url = urlparse(player_url)
+                    player_origin = f"{parsed_player_url.scheme}://{parsed_player_url.netloc}"
+                except Exception:
+                    player_origin = None 
+                
+                if not player_origin:
+                    continue 
+
                 group_name = get_channel_group(channel_name)
                 
                 channels.append({
                     'name': channel_name,
-                    'url': player_url,
-                    'group': group_name
+                    'url': player_url,      
+                    'group': group_name,
+                    'origin': player_origin 
                 })
 
         print(f"✅ {len(channels)} adet potansiyel kanal linki bulundu ve gruplandırıldı.")
@@ -146,16 +154,13 @@ def main():
         )
         page = context.new_page()
 
-        # --- YENİ ADIM: ÖNCE GÜNCEL DOMAIN'İ BUL ---
         selcuksports_domain = find_working_domain(page)
 
         if not selcuksports_domain:
             print("❌ UYARI: Güncel domain portal sayfasından alınamadı. İşlem sonlandırılıyor.")
             browser.close()
             sys.exit(1)
-        # --- BİTTİ ---
 
-        # --- GÜNCELLENDİ: Bulunan domain'i fonksiyona parametre olarak ver ---
         channels = scrape_channel_links(page, selcuksports_domain)
 
         if not channels:
@@ -167,6 +172,19 @@ def main():
         output_filename = "selcuksports_kanallar.m3u8"
         print(f"\n📺 {len(channels)} kanal için M3U8 linkleri işleniyor...")
         created = 0
+        
+        # --- YENİ EKLENEN KISIM: GLOBAL BAŞLIKLARI AYARLA ---
+        # Tüm kanallar aynı kaynağı kullandığı için ilk kanaldan bilgiyi al
+        player_origin_host = channels[0]['origin']
+        player_referer = player_origin_host + '/' # Sonuna / ekle
+        
+        m3u_header_lines = [
+            "#EXTM3U",
+            f"#EXT-X-USER-AGENT:{USER_AGENT}",
+            f"#EXT-X-REFERER:{player_referer}",
+            f"#EXT-X-ORIGIN:{player_origin_host}"
+        ]
+        # --- BİTTİ ---
         
         for i, channel_info in enumerate(channels, 1):
             channel_name = channel_info['name']
@@ -180,6 +198,10 @@ def main():
             if m3u8_link:
                 print(" -> ✅ Link bulundu.")
                 m3u_content.append(f'#EXTINF:-1 tvg-name="{channel_name}" group-title="{group_name}",{channel_name}')
+                
+                # --- KALDIRILDI ---
+                # #EXTVLCOPT satırı artık burada KULLANILMAYACAK.
+                
                 m3u_content.append(m3u8_link)
                 created += 1
             else:
@@ -188,9 +210,11 @@ def main():
         browser.close()
 
         if created > 0:
-            header = "#EXTM3U"
             with open(output_filename, "w", encoding="utf-8") as f:
-                f.write(header + "\n") 
+                # Önce global başlıkları yaz
+                f.write("\n".join(m3u_header_lines))
+                f.write("\n") 
+                # Sonra kanal listesini yaz
                 f.write("\n".join(m3u_content))
             print(f"\n\n📂 {created} kanal başarıyla '{output_filename}' dosyasına kaydedildi.")
         else:

@@ -4,38 +4,30 @@
 #EXT-X-ORIGIN:https://main.uxsyplayerb03b3c895b.click
 #EXTINF:-1 tvg-name="Fenerbahçe - Fatih Karagümrük HD1" group-title="Maç Yayınları",Fenerbahçe - Fatih Karagümrük HD1
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcukobs1/playlist.m3u8
-#EXTINF:-1 tvg-name="Esenler Erokspor - Bodrumspor" group-title="Maç Yayınları",Esenler Erokspor - Bodrumspor
-https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktrtspor/playlist.m3u8
-#EXTINF:-1 tvg-name="Atalanta - Lazio" group-title="Maç Yayınları",Atalanta - Lazio
-https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 tvg-name="Levante - Rayo Vallecano" group-title="Maç Yayınları",Levante - Rayo Vallecano
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcukssport/playlist.m3u8
 #EXTINF:-1 tvg-name="Fenerbahçe - Fatih Karagümrük" group-title="Maç Yayınları",Fenerbahçe - Fatih Karagümrük
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcukbeinsports1/playlist.m3u8
 #EXTINF:-1 tvg-name="Estudiantes - Gimnasia La Plata" group-title="Maç Yayınları",Estudiantes - Gimnasia La Plata
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuksmartspor/playlist.m3u8
-#EXTINF:-1 tvg-name="Milan - Fiorentina" group-title="Maç Yayınları",Milan - Fiorentina
-https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 tvg-name="Nantes - Lille" group-title="Maç Yayınları",Nantes - Lille
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcukbeinsports2/playlist.m3u8
+#EXTINF:-1 tvg-name="Milan - Fiorentina" group-title="Maç Yayınları",Milan - Fiorentina
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 tvg-name="Getafe - Real Madrid" group-title="Maç Yayınları",Getafe - Real Madrid
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcukssport/playlist.m3u8
 #EXTINF:-1 tvg-name="Fenerbahçe - Fatih Karagümrük HD1" group-title="Maç Yayınları",Fenerbahçe - Fatih Karagümrük HD1
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcukobs1/playlist.m3u8
-#EXTINF:-1 tvg-name="Esenler Erokspor - Bodrumspor" group-title="Maç Yayınları",Esenler Erokspor - Bodrumspor
-https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktrtspor/playlist.m3u8
-#EXTINF:-1 tvg-name="Atalanta - Lazio" group-title="Maç Yayınları",Atalanta - Lazio
-https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 tvg-name="Levante - Rayo Vallecano" group-title="Maç Yayınları",Levante - Rayo Vallecano
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcukssport/playlist.m3u8
 #EXTINF:-1 tvg-name="Fenerbahçe - Fatih Karagümrük" group-title="Maç Yayınları",Fenerbahçe - Fatih Karagümrük
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcukbeinsports1/playlist.m3u8
 #EXTINF:-1 tvg-name="Estudiantes - Gimnasia La Plata" group-title="Maç Yayınları",Estudiantes - Gimnasia La Plata
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuksmartspor/playlist.m3u8
-#EXTINF:-1 tvg-name="Milan - Fiorentina" group-title="Maç Yayınları",Milan - Fiorentina
-https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 tvg-name="Nantes - Lille" group-title="Maç Yayınları",Nantes - Lille
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcukbeinsports2/playlist.m3u8
+#EXTINF:-1 tvg-name="Milan - Fiorentina" group-title="Maç Yayınları",Milan - Fiorentina
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 tvg-name="Getafe - Real Madrid" group-title="Maç Yayınları",Getafe - Real Madrid
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcukssport/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 1" group-title="BeinSports",Bein Sports 1

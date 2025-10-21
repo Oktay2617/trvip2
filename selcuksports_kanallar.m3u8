@@ -4,10 +4,38 @@
 #EXT-X-ORIGIN:https://main.uxsyplayerb03b3c895b.click
 #EXTINF:-1 tvg-name="Al Ahli Dubai - Nasaf Qarshi" group-title="Maç Yayınları",Al Ahli Dubai - Nasaf Qarshi
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuksmartspor/playlist.m3u8
+#EXTINF:-1 tvg-name="Barcelona - Olympiakos" group-title="Maç Yayınları",Barcelona - Olympiakos
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor1/playlist.m3u8
+#EXTINF:-1 tvg-name="Kairat Almaty - Pafos" group-title="Maç Yayınları",Kairat Almaty - Pafos
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor2/playlist.m3u8
+#EXTINF:-1 tvg-name="Newcastle - Benfica" group-title="Maç Yayınları",Newcastle - Benfica
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor5/playlist.m3u8
+#EXTINF:-1 tvg-name="PSV - Napoli" group-title="Maç Yayınları",PSV - Napoli
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor6/playlist.m3u8
+#EXTINF:-1 tvg-name="Villarreal - Manchester City" group-title="Maç Yayınları",Villarreal - Manchester City
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor3/playlist.m3u8
+#EXTINF:-1 tvg-name="Arsenal - Atletico Madrid" group-title="Maç Yayınları",Arsenal - Atletico Madrid
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bayer Leverkusen - PSG" group-title="Maç Yayınları",Bayer Leverkusen - PSG
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor2/playlist.m3u8
 #EXTINF:-1 tvg-name="Ratiopharm Ulm - Beşiktaş GAİN" group-title="Maç Yayınları",Ratiopharm Ulm - Beşiktaş GAİN
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktrtspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Ahli Dubai - Nasaf Qarshi" group-title="Maç Yayınları",Al Ahli Dubai - Nasaf Qarshi
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuksmartspor/playlist.m3u8
+#EXTINF:-1 tvg-name="Barcelona - Olympiakos" group-title="Maç Yayınları",Barcelona - Olympiakos
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor1/playlist.m3u8
+#EXTINF:-1 tvg-name="Kairat Almaty - Pafos" group-title="Maç Yayınları",Kairat Almaty - Pafos
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor2/playlist.m3u8
+#EXTINF:-1 tvg-name="Newcastle - Benfica" group-title="Maç Yayınları",Newcastle - Benfica
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor5/playlist.m3u8
+#EXTINF:-1 tvg-name="PSV - Napoli" group-title="Maç Yayınları",PSV - Napoli
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor6/playlist.m3u8
+#EXTINF:-1 tvg-name="Villarreal - Manchester City" group-title="Maç Yayınları",Villarreal - Manchester City
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor3/playlist.m3u8
+#EXTINF:-1 tvg-name="Arsenal - Atletico Madrid" group-title="Maç Yayınları",Arsenal - Atletico Madrid
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bayer Leverkusen - PSG" group-title="Maç Yayınları",Bayer Leverkusen - PSG
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor2/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 1" group-title="BeinSports",Bein Sports 1
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcukbeinsports1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 2" group-title="BeinSports",Bein Sports 2
@@ -42,6 +70,18 @@ https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktivibuspor2/playlist.m3
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktivibuspor3/playlist.m3u8
 #EXTINF:-1 tvg-name="Tivibu Spor 4" group-title="Tivibu",Tivibu Spor 4
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktivibuspor4/playlist.m3u8
+#EXTINF:-1 tvg-name="tabii Spor" group-title="Maç Yayınları",tabii Spor
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor1/playlist.m3u8
+#EXTINF:-1 tvg-name="tabii Spor 1" group-title="Maç Yayınları",tabii Spor 1
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor2/playlist.m3u8
+#EXTINF:-1 tvg-name="tabii Spor 2" group-title="Maç Yayınları",tabii Spor 2
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor3/playlist.m3u8
+#EXTINF:-1 tvg-name="tabii Spor 3" group-title="Maç Yayınları",tabii Spor 3
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor4/playlist.m3u8
+#EXTINF:-1 tvg-name="tabii Spor 4" group-title="Maç Yayınları",tabii Spor 4
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor5/playlist.m3u8
+#EXTINF:-1 tvg-name="tabii Spor 5" group-title="Maç Yayınları",tabii Spor 5
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor6/playlist.m3u8
 #EXTINF:-1 tvg-name="A Spor" group-title="Ulusal Kanallar",A Spor
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcukaspor/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT Spor" group-title="Ulusal Kanallar",TRT Spor

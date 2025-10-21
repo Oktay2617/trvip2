@@ -1,9 +1,7 @@
 #EXTM3U
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXT-X-REFERER:https://main.uxsyplayerb03b3c895b.click/
-#EXT-X-ORIGIN:https://main.uxsyplayerb03b3c895b.click
-#EXTINF:-1 tvg-name="Arsenal - Atletico Madrid" group-title="Maç Yayınları",Arsenal - Atletico Madrid
-https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor1/playlist.m3u8
+#EXT-X-REFERER:https://main.uxsyplayer7d716e84ac.click/
+#EXT-X-ORIGIN:https://main.uxsyplayer7d716e84ac.click
 #EXTINF:-1 tvg-name="Bayer Leverkusen - PSG" group-title="Maç Yayınları",Bayer Leverkusen - PSG
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor2/playlist.m3u8
 #EXTINF:-1 tvg-name="PSV - Napoli" group-title="Maç Yayınları",PSV - Napoli
@@ -14,6 +12,8 @@ https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor5/playlist.m3u
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor3/playlist.m3u8
 #EXTINF:-1 tvg-name="Arsenal - Atletico Madrid" group-title="Maç Yayınları",Arsenal - Atletico Madrid
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor1/playlist.m3u8
+#EXTINF:-1 tvg-name="St.Gilloise - Inter" group-title="Maç Yayınları",St.Gilloise - Inter
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor4/playlist.m3u8
 #EXTINF:-1 tvg-name="Bayer Leverkusen - PSG" group-title="Maç Yayınları",Bayer Leverkusen - PSG
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor2/playlist.m3u8
 #EXTINF:-1 tvg-name="PSV - Napoli" group-title="Maç Yayınları",PSV - Napoli
@@ -22,6 +22,10 @@ https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor6/playlist.m3u
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor5/playlist.m3u8
 #EXTINF:-1 tvg-name="Villarreal - Manchester City" group-title="Maç Yayınları",Villarreal - Manchester City
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor3/playlist.m3u8
+#EXTINF:-1 tvg-name="Arsenal - Atletico Madrid" group-title="Maç Yayınları",Arsenal - Atletico Madrid
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor1/playlist.m3u8
+#EXTINF:-1 tvg-name="St.Gilloise - Inter" group-title="Maç Yayınları",St.Gilloise - Inter
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor4/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 1" group-title="BeinSports",Bein Sports 1
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcukbeinsports1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 2" group-title="BeinSports",Bein Sports 2

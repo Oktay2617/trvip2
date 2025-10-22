@@ -2,32 +2,28 @@
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXT-X-REFERER:https://main.uxsyplayer7d716e84ac.click/
 #EXT-X-ORIGIN:https://main.uxsyplayer7d716e84ac.click
-#EXTINF:-1 tvg-name="Atalanta - Slavia Prag" group-title="Maç Yayınları",Atalanta - Slavia Prag
-https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor6/playlist.m3u8
-#EXTINF:-1 tvg-name="Chelsea - Ajax" group-title="Maç Yayınları",Chelsea - Ajax
-https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor4/playlist.m3u8
-#EXTINF:-1 tvg-name="Monaco - Tottenham" group-title="Maç Yayınları",Monaco - Tottenham
-https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor5/playlist.m3u8
-#EXTINF:-1 tvg-name="Bayern Münih - Club Brugge" group-title="Maç Yayınları",Bayern Münih - Club Brugge
-https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor3/playlist.m3u8
 #EXTINF:-1 tvg-name="Real Madrid - Juventus" group-title="Maç Yayınları",Real Madrid - Juventus
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor1/playlist.m3u8
+#EXTINF:-1 tvg-name="Monaco - Tottenham" group-title="Maç Yayınları",Monaco - Tottenham
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor5/playlist.m3u8
 #EXTINF:-1 tvg-name="Eintracht Frankfurt - Liverpool" group-title="Maç Yayınları",Eintracht Frankfurt - Liverpool
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor2/playlist.m3u8
+#EXTINF:-1 tvg-name="Bayern Münih - Club Brugge" group-title="Maç Yayınları",Bayern Münih - Club Brugge
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor3/playlist.m3u8
+#EXTINF:-1 tvg-name="Atalanta - Slavia Prag" group-title="Maç Yayınları",Atalanta - Slavia Prag
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor6/playlist.m3u8
 #EXTINF:-1 tvg-name="Joventut Badalona - Bursaspor" group-title="Maç Yayınları",Joventut Badalona - Bursaspor
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktrtspor/playlist.m3u8
-#EXTINF:-1 tvg-name="Atalanta - Slavia Prag" group-title="Maç Yayınları",Atalanta - Slavia Prag
-https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor6/playlist.m3u8
-#EXTINF:-1 tvg-name="Chelsea - Ajax" group-title="Maç Yayınları",Chelsea - Ajax
-https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor4/playlist.m3u8
-#EXTINF:-1 tvg-name="Monaco - Tottenham" group-title="Maç Yayınları",Monaco - Tottenham
-https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor5/playlist.m3u8
-#EXTINF:-1 tvg-name="Bayern Münih - Club Brugge" group-title="Maç Yayınları",Bayern Münih - Club Brugge
-https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor3/playlist.m3u8
 #EXTINF:-1 tvg-name="Real Madrid - Juventus" group-title="Maç Yayınları",Real Madrid - Juventus
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor1/playlist.m3u8
+#EXTINF:-1 tvg-name="Monaco - Tottenham" group-title="Maç Yayınları",Monaco - Tottenham
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor5/playlist.m3u8
 #EXTINF:-1 tvg-name="Eintracht Frankfurt - Liverpool" group-title="Maç Yayınları",Eintracht Frankfurt - Liverpool
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor2/playlist.m3u8
+#EXTINF:-1 tvg-name="Bayern Münih - Club Brugge" group-title="Maç Yayınları",Bayern Münih - Club Brugge
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor3/playlist.m3u8
+#EXTINF:-1 tvg-name="Atalanta - Slavia Prag" group-title="Maç Yayınları",Atalanta - Slavia Prag
+https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcuktabiispor6/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 1" group-title="BeinSports",Bein Sports 1
 https://df16ea90s1u1080.739ce0e51c3d11ca.live/live/selcukbeinsports1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 2" group-title="BeinSports",Bein Sports 2

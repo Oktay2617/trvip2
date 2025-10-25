@@ -2,8 +2,6 @@
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXT-X-REFERER:https://main.uxsyplayer7d716e84ac.click/
 #EXT-X-ORIGIN:https://main.uxsyplayer7d716e84ac.click
-#EXTINF:-1 tvg-name="Hertha Berlin - Fortuna Düsseldorf" group-title="Maç Yayınları",Hertha Berlin - Fortuna Düsseldorf
-https://df16ea90s1u1080.dc128087447277db.live/live/selcuktivibuspor1/playlist.m3u8
 #EXTINF:-1 tvg-name="Cremonese - Atalanta" group-title="Maç Yayınları",Cremonese - Atalanta
 https://df16ea90s1u1080.dc128087447277db.live/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 tvg-name="Valencia - Villarreal" group-title="Maç Yayınları",Valencia - Villarreal
@@ -16,8 +14,6 @@ https://df16ea90s1u1080.dc128087447277db.live/live/selcuksmartspor/playlist.m3u8
 https://df16ea90s1u1080.dc128087447277db.live/live/selcukbeinsportsmax1/playlist.m3u8
 #EXTINF:-1 tvg-name="Benfica - Arouca" group-title="Maç Yayınları",Benfica - Arouca
 https://df16ea90s1u1080.dc128087447277db.live/live/selcuktivibuspor3/playlist.m3u8
-#EXTINF:-1 tvg-name="Hertha Berlin - Fortuna Düsseldorf" group-title="Maç Yayınları",Hertha Berlin - Fortuna Düsseldorf
-https://df16ea90s1u1080.dc128087447277db.live/live/selcuktivibuspor1/playlist.m3u8
 #EXTINF:-1 tvg-name="Cremonese - Atalanta" group-title="Maç Yayınları",Cremonese - Atalanta
 https://df16ea90s1u1080.dc128087447277db.live/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 tvg-name="Valencia - Villarreal" group-title="Maç Yayınları",Valencia - Villarreal

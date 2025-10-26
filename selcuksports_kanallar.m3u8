@@ -2,8 +2,6 @@
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXT-X-REFERER:https://main.uxsyplayer7d716e84ac.click/
 #EXT-X-ORIGIN:https://main.uxsyplayer7d716e84ac.click
-#EXTINF:-1 tvg-name="Fortaleza - Flamengo" group-title="Maç Yayınları",Fortaleza - Flamengo
-https://df16ea90s1u1080.dc128087447277db.live/live/selcuksmartspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Bandırmaspor - Esenler Erokspor" group-title="Maç Yayınları",Bandırmaspor - Esenler Erokspor
 https://df16ea90s1u1080.dc128087447277db.live/live/selcuktrtspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Twente - Ajax" group-title="Maç Yayınları",Twente - Ajax
@@ -18,18 +16,18 @@ https://df16ea90s1u1080.dc128087447277db.live/live/selcuktivibuspor3/playlist.m3
 https://df16ea90s1u1080.dc128087447277db.live/live/selcukbeinsportsmax1/playlist.m3u8
 #EXTINF:-1 tvg-name="Mallorca - Levante" group-title="Maç Yayınları",Mallorca - Levante
 https://df16ea90s1u1080.dc128087447277db.live/live/selcukssport/playlist.m3u8
+#EXTINF:-1 tvg-name="Galatasaray - Göztepe" group-title="Maç Yayınları",Galatasaray - Göztepe
+https://df16ea90s1u1080.dc128087447277db.live/live/selcukbeinsports1/playlist.m3u8
+#EXTINF:-1 tvg-name="Gençlerbirliği - Konyaspor" group-title="Maç Yayınları",Gençlerbirliği - Konyaspor
+https://df16ea90s1u1080.dc128087447277db.live/live/selcukbeinsports2/playlist.m3u8
 #EXTINF:-1 tvg-name="Arsenal - Crystal Palace" group-title="Maç Yayınları",Arsenal - Crystal Palace
 https://df16ea90s1u1080.dc128087447277db.live/live/selcukbeinsports3/playlist.m3u8
 #EXTINF:-1 tvg-name="Verona - Cagliari" group-title="Maç Yayınları",Verona - Cagliari
 https://df16ea90s1u1080.dc128087447277db.live/live/selcuktivibuspor4/playlist.m3u8
-#EXTINF:-1 tvg-name="Aston Villa - Manchester City" group-title="Maç Yayınları",Aston Villa - Manchester City
-https://df16ea90s1u1080.dc128087447277db.live/live/selcukbeinsports4/playlist.m3u8
-#EXTINF:-1 tvg-name="Gençlerbirliği - Konyaspor" group-title="Maç Yayınları",Gençlerbirliği - Konyaspor
-https://df16ea90s1u1080.dc128087447277db.live/live/selcukbeinsports2/playlist.m3u8
 #EXTINF:-1 tvg-name="Sassuolo - Roma" group-title="Maç Yayınları",Sassuolo - Roma
 https://df16ea90s1u1080.dc128087447277db.live/live/selcukssport2/playlist.m3u8
-#EXTINF:-1 tvg-name="Galatasaray - Göztepe" group-title="Maç Yayınları",Galatasaray - Göztepe
-https://df16ea90s1u1080.dc128087447277db.live/live/selcukbeinsports1/playlist.m3u8
+#EXTINF:-1 tvg-name="Aston Villa - Manchester City" group-title="Maç Yayınları",Aston Villa - Manchester City
+https://df16ea90s1u1080.dc128087447277db.live/live/selcukbeinsports4/playlist.m3u8
 #EXTINF:-1 tvg-name="Bayer Leverkusen - Freiburg" group-title="Maç Yayınları",Bayer Leverkusen - Freiburg
 https://df16ea90s1u1080.dc128087447277db.live/live/selcuktivibuspor2/playlist.m3u8
 #EXTINF:-1 tvg-name="Real Madrid - Barcelona" group-title="Maç Yayınları",Real Madrid - Barcelona
@@ -56,10 +54,10 @@ https://df16ea90s1u1080.dc128087447277db.live/live/selcuktivibuspor3/playlist.m3
 https://df16ea90s1u1080.dc128087447277db.live/live/selcuksmartspor/playlist.m3u8
 #EXTINF:-1 tvg-name="GA Eagles - Excelsior" group-title="Maç Yayınları",GA Eagles - Excelsior
 https://df16ea90s1u1080.dc128087447277db.live/live/selcuktivibuspor4/playlist.m3u8
-#EXTINF:-1 tvg-name="Lazio - Juventus" group-title="Maç Yayınları",Lazio - Juventus
-https://df16ea90s1u1080.dc128087447277db.live/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 tvg-name="Lyon - Strasbourg" group-title="Maç Yayınları",Lyon - Strasbourg
 https://df16ea90s1u1080.dc128087447277db.live/live/selcukbeinsports3/playlist.m3u8
+#EXTINF:-1 tvg-name="Lazio - Juventus" group-title="Maç Yayınları",Lazio - Juventus
+https://df16ea90s1u1080.dc128087447277db.live/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 tvg-name="Rayo Vallecano - Alaves" group-title="Maç Yayınları",Rayo Vallecano - Alaves
 https://df16ea90s1u1080.dc128087447277db.live/live/selcukssport/playlist.m3u8
 #EXTINF:-1 tvg-name="Braga - Casa Pia" group-title="Maç Yayınları",Braga - Casa Pia
@@ -76,8 +74,6 @@ https://df16ea90s1u1080.dc128087447277db.live/live/selcukbeinsports5/playlist.m3
 https://df16ea90s1u1080.dc128087447277db.live/live/selcuksmartspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Galatasaray MCT Technic - Karşıyaka" group-title="Maç Yayınları",Galatasaray MCT Technic - Karşıyaka
 https://df16ea90s1u1080.dc128087447277db.live/live/selcukbeinsports5/playlist.m3u8
-#EXTINF:-1 tvg-name="Fortaleza - Flamengo" group-title="Maç Yayınları",Fortaleza - Flamengo
-https://df16ea90s1u1080.dc128087447277db.live/live/selcuksmartspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Bandırmaspor - Esenler Erokspor" group-title="Maç Yayınları",Bandırmaspor - Esenler Erokspor
 https://df16ea90s1u1080.dc128087447277db.live/live/selcuktrtspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Twente - Ajax" group-title="Maç Yayınları",Twente - Ajax
@@ -92,18 +88,18 @@ https://df16ea90s1u1080.dc128087447277db.live/live/selcuktivibuspor3/playlist.m3
 https://df16ea90s1u1080.dc128087447277db.live/live/selcukbeinsportsmax1/playlist.m3u8
 #EXTINF:-1 tvg-name="Mallorca - Levante" group-title="Maç Yayınları",Mallorca - Levante
 https://df16ea90s1u1080.dc128087447277db.live/live/selcukssport/playlist.m3u8
+#EXTINF:-1 tvg-name="Galatasaray - Göztepe" group-title="Maç Yayınları",Galatasaray - Göztepe
+https://df16ea90s1u1080.dc128087447277db.live/live/selcukbeinsports1/playlist.m3u8
+#EXTINF:-1 tvg-name="Gençlerbirliği - Konyaspor" group-title="Maç Yayınları",Gençlerbirliği - Konyaspor
+https://df16ea90s1u1080.dc128087447277db.live/live/selcukbeinsports2/playlist.m3u8
 #EXTINF:-1 tvg-name="Arsenal - Crystal Palace" group-title="Maç Yayınları",Arsenal - Crystal Palace
 https://df16ea90s1u1080.dc128087447277db.live/live/selcukbeinsports3/playlist.m3u8
 #EXTINF:-1 tvg-name="Verona - Cagliari" group-title="Maç Yayınları",Verona - Cagliari
 https://df16ea90s1u1080.dc128087447277db.live/live/selcuktivibuspor4/playlist.m3u8
-#EXTINF:-1 tvg-name="Aston Villa - Manchester City" group-title="Maç Yayınları",Aston Villa - Manchester City
-https://df16ea90s1u1080.dc128087447277db.live/live/selcukbeinsports4/playlist.m3u8
-#EXTINF:-1 tvg-name="Gençlerbirliği - Konyaspor" group-title="Maç Yayınları",Gençlerbirliği - Konyaspor
-https://df16ea90s1u1080.dc128087447277db.live/live/selcukbeinsports2/playlist.m3u8
 #EXTINF:-1 tvg-name="Sassuolo - Roma" group-title="Maç Yayınları",Sassuolo - Roma
 https://df16ea90s1u1080.dc128087447277db.live/live/selcukssport2/playlist.m3u8
-#EXTINF:-1 tvg-name="Galatasaray - Göztepe" group-title="Maç Yayınları",Galatasaray - Göztepe
-https://df16ea90s1u1080.dc128087447277db.live/live/selcukbeinsports1/playlist.m3u8
+#EXTINF:-1 tvg-name="Aston Villa - Manchester City" group-title="Maç Yayınları",Aston Villa - Manchester City
+https://df16ea90s1u1080.dc128087447277db.live/live/selcukbeinsports4/playlist.m3u8
 #EXTINF:-1 tvg-name="Bayer Leverkusen - Freiburg" group-title="Maç Yayınları",Bayer Leverkusen - Freiburg
 https://df16ea90s1u1080.dc128087447277db.live/live/selcuktivibuspor2/playlist.m3u8
 #EXTINF:-1 tvg-name="Real Madrid - Barcelona" group-title="Maç Yayınları",Real Madrid - Barcelona
@@ -130,10 +126,10 @@ https://df16ea90s1u1080.dc128087447277db.live/live/selcuktivibuspor3/playlist.m3
 https://df16ea90s1u1080.dc128087447277db.live/live/selcuksmartspor/playlist.m3u8
 #EXTINF:-1 tvg-name="GA Eagles - Excelsior" group-title="Maç Yayınları",GA Eagles - Excelsior
 https://df16ea90s1u1080.dc128087447277db.live/live/selcuktivibuspor4/playlist.m3u8
-#EXTINF:-1 tvg-name="Lazio - Juventus" group-title="Maç Yayınları",Lazio - Juventus
-https://df16ea90s1u1080.dc128087447277db.live/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 tvg-name="Lyon - Strasbourg" group-title="Maç Yayınları",Lyon - Strasbourg
 https://df16ea90s1u1080.dc128087447277db.live/live/selcukbeinsports3/playlist.m3u8
+#EXTINF:-1 tvg-name="Lazio - Juventus" group-title="Maç Yayınları",Lazio - Juventus
+https://df16ea90s1u1080.dc128087447277db.live/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 tvg-name="Rayo Vallecano - Alaves" group-title="Maç Yayınları",Rayo Vallecano - Alaves
 https://df16ea90s1u1080.dc128087447277db.live/live/selcukssport/playlist.m3u8
 #EXTINF:-1 tvg-name="Braga - Casa Pia" group-title="Maç Yayınları",Braga - Casa Pia

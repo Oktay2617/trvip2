@@ -4,10 +4,10 @@
 #EXT-X-ORIGIN:https://main.uxsyplayer7bbdcfe741.click
 #EXTINF:-1 tvg-name="Kasımpaşa - Beşiktaş HD1" group-title="Maç Yayınları",Kasımpaşa - Beşiktaş HD1
 https://dga1op10s1u4lep.90e99cd425db857d.live/live/selcukobs1/playlist.m3u8
-#EXTINF:-1 tvg-name="Fiorentina - Bologna" group-title="Maç Yayınları",Fiorentina - Bologna
-https://dga1op10s1u4lep.90e99cd425db857d.live/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 tvg-name="Kasımpaşa - Beşiktaş" group-title="Maç Yayınları",Kasımpaşa - Beşiktaş
 https://dga1op10s1u4lep.90e99cd425db857d.live/live/selcukbeinsports1/playlist.m3u8
+#EXTINF:-1 tvg-name="Fiorentina - Bologna" group-title="Maç Yayınları",Fiorentina - Bologna
+https://dga1op10s1u4lep.90e99cd425db857d.live/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 tvg-name="Osasuna - Celta Vigo" group-title="Maç Yayınları",Osasuna - Celta Vigo
 https://dga1op10s1u4lep.90e99cd425db857d.live/live/selcukssport/playlist.m3u8
 #EXTINF:-1 tvg-name="Tondela - Sporting Lisbon" group-title="Maç Yayınları",Tondela - Sporting Lisbon
@@ -28,10 +28,10 @@ https://dga1op10s1u4lep.90e99cd425db857d.live/live/selcukbeinsports5/playlist.m3
 https://dga1op10s1u4lep.90e99cd425db857d.live/live/selcukssport/playlist.m3u8
 #EXTINF:-1 tvg-name="Kasımpaşa - Beşiktaş HD1" group-title="Maç Yayınları",Kasımpaşa - Beşiktaş HD1
 https://dga1op10s1u4lep.90e99cd425db857d.live/live/selcukobs1/playlist.m3u8
-#EXTINF:-1 tvg-name="Fiorentina - Bologna" group-title="Maç Yayınları",Fiorentina - Bologna
-https://dga1op10s1u4lep.90e99cd425db857d.live/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 tvg-name="Kasımpaşa - Beşiktaş" group-title="Maç Yayınları",Kasımpaşa - Beşiktaş
 https://dga1op10s1u4lep.90e99cd425db857d.live/live/selcukbeinsports1/playlist.m3u8
+#EXTINF:-1 tvg-name="Fiorentina - Bologna" group-title="Maç Yayınları",Fiorentina - Bologna
+https://dga1op10s1u4lep.90e99cd425db857d.live/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 tvg-name="Osasuna - Celta Vigo" group-title="Maç Yayınları",Osasuna - Celta Vigo
 https://dga1op10s1u4lep.90e99cd425db857d.live/live/selcukssport/playlist.m3u8
 #EXTINF:-1 tvg-name="Tondela - Sporting Lisbon" group-title="Maç Yayınları",Tondela - Sporting Lisbon

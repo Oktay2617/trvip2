@@ -4,16 +4,44 @@
 #EXT-X-ORIGIN:https://main.uxsyplayerbcd362c475.click
 #EXTINF:-1 tvg-name="Gaziantep FK - Fenerbahçe HD1" group-title="Maç Yayınları",Gaziantep FK - Fenerbahçe HD1
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukobs1/playlist.m3u8
-#EXTINF:-1 tvg-name="Barracas Central - Boca Juniors" group-title="Maç Yayınları",Barracas Central - Boca Juniors
-https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuksmartspor/playlist.m3u8
-#EXTINF:-1 tvg-name="Real Betis - Atletico Madrid" group-title="Maç Yayınları",Real Betis - Atletico Madrid
+#EXTINF:-1 tvg-name="Kepez Bld. - Sivasspor" group-title="Maç Yayınları",Kepez Bld. - Sivasspor
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukaspor/playlist.m3u8
+#EXTINF:-1 tvg-name="52 Orduspor - Sarıyer" group-title="Maç Yayınları",52 Orduspor - Sarıyer
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukaspor/playlist.m3u8
+#EXTINF:-1 tvg-name="Sakaryaspor - İnegölspor" group-title="Maç Yayınları",Sakaryaspor - İnegölspor
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukaspor/playlist.m3u8
+#EXTINF:-1 tvg-name="Türkiye - Kosova" group-title="Maç Yayınları",Türkiye - Kosova
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktrtspor/playlist.m3u8
+#EXTINF:-1 tvg-name="Kayserispor - Niğde Bld." group-title="Maç Yayınları",Kayserispor - Niğde Bld.
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukaspor/playlist.m3u8
+#EXTINF:-1 tvg-name="Lecce - Napoli" group-title="Maç Yayınları",Lecce - Napoli
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukssport2/playlist.m3u8
+#EXTINF:-1 tvg-name="Atalanta - Milan" group-title="Maç Yayınları",Atalanta - Milan
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktivibuspor2/playlist.m3u8
+#EXTINF:-1 tvg-name="Zalgiris Kaunas - Virtus Bologna" group-title="Maç Yayınları",Zalgiris Kaunas - Virtus Bologna
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukssport/playlist.m3u8
+#EXTINF:-1 tvg-name="Paris - Anadolu Efes" group-title="Maç Yayınları",Paris - Anadolu Efes
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukssport2/playlist.m3u8
+#EXTINF:-1 tvg-name="Valencia Basket - Fenerbahçe Beko" group-title="Maç Yayınları",Valencia Basket - Fenerbahçe Beko
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukssport/playlist.m3u8
+#EXTINF:-1 tvg-name="Zeynep Sönmez - T.Prozorova" group-title="Maç Yayınları",Zeynep Sönmez - T.Prozorova
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsportsmax1/playlist.m3u8
 #EXTINF:-1 tvg-name="Gaziantep FK - Fenerbahçe HD1" group-title="Maç Yayınları",Gaziantep FK - Fenerbahçe HD1
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukobs1/playlist.m3u8
-#EXTINF:-1 tvg-name="Barracas Central - Boca Juniors" group-title="Maç Yayınları",Barracas Central - Boca Juniors
-https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuksmartspor/playlist.m3u8
-#EXTINF:-1 tvg-name="Real Betis - Atletico Madrid" group-title="Maç Yayınları",Real Betis - Atletico Madrid
-https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukssport/playlist.m3u8
+#EXTINF:-1 tvg-name="Kepez Bld. - Sivasspor" group-title="Maç Yayınları",Kepez Bld. - Sivasspor
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukaspor/playlist.m3u8
+#EXTINF:-1 tvg-name="52 Orduspor - Sarıyer" group-title="Maç Yayınları",52 Orduspor - Sarıyer
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukaspor/playlist.m3u8
+#EXTINF:-1 tvg-name="Sakaryaspor - İnegölspor" group-title="Maç Yayınları",Sakaryaspor - İnegölspor
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukaspor/playlist.m3u8
+#EXTINF:-1 tvg-name="Türkiye - Kosova" group-title="Maç Yayınları",Türkiye - Kosova
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktrtspor/playlist.m3u8
+#EXTINF:-1 tvg-name="Kayserispor - Niğde Bld." group-title="Maç Yayınları",Kayserispor - Niğde Bld.
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukaspor/playlist.m3u8
+#EXTINF:-1 tvg-name="Lecce - Napoli" group-title="Maç Yayınları",Lecce - Napoli
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukssport2/playlist.m3u8
+#EXTINF:-1 tvg-name="Atalanta - Milan" group-title="Maç Yayınları",Atalanta - Milan
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktivibuspor2/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 1" group-title="BeinSports",Bein Sports 1
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 2" group-title="BeinSports",Bein Sports 2

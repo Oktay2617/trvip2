@@ -2,22 +2,20 @@
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXT-X-REFERER:https://main.uxsyplayerbcd362c475.click/
 #EXT-X-ORIGIN:https://main.uxsyplayerbcd362c475.click
-#EXTINF:-1 tvg-name="Nancy - Bastia" group-title="Maç Yayınları",Nancy - Bastia
-https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports5/playlist.m3u8
 #EXTINF:-1 tvg-name="St. Etienne - Pau FC" group-title="Maç Yayınları",St. Etienne - Pau FC
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports4/playlist.m3u8
+#EXTINF:-1 tvg-name="Nancy - Bastia" group-title="Maç Yayınları",Nancy - Bastia
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports5/playlist.m3u8
 #EXTINF:-1 tvg-name="Atalanta - Milan" group-title="Maç Yayınları",Atalanta - Milan
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktivibuspor2/playlist.m3u8
-#EXTINF:-1 tvg-name="Zalgiris Kaunas - Virtus Bologna" group-title="Maç Yayınları",Zalgiris Kaunas - Virtus Bologna
-https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukssport/playlist.m3u8
 #EXTINF:-1 tvg-name="Paris - Anadolu Efes" group-title="Maç Yayınları",Paris - Anadolu Efes
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 tvg-name="Valencia Basket - Fenerbahçe Beko" group-title="Maç Yayınları",Valencia Basket - Fenerbahçe Beko
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukssport/playlist.m3u8
-#EXTINF:-1 tvg-name="Nancy - Bastia" group-title="Maç Yayınları",Nancy - Bastia
-https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports5/playlist.m3u8
 #EXTINF:-1 tvg-name="St. Etienne - Pau FC" group-title="Maç Yayınları",St. Etienne - Pau FC
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports4/playlist.m3u8
+#EXTINF:-1 tvg-name="Nancy - Bastia" group-title="Maç Yayınları",Nancy - Bastia
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports5/playlist.m3u8
 #EXTINF:-1 tvg-name="Atalanta - Milan" group-title="Maç Yayınları",Atalanta - Milan
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktivibuspor2/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 1" group-title="BeinSports",Bein Sports 1

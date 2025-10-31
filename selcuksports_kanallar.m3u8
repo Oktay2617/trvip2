@@ -4,10 +4,10 @@
 #EXT-X-ORIGIN:https://main.uxsyplayerbcd362c475.click
 #EXTINF:-1 tvg-name="Al Hilal - Al Shabab" group-title="Maç Yayınları",Al Hilal - Al Shabab
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktrtspor/playlist.m3u8
-#EXTINF:-1 tvg-name="Hatayspor - Erzurumspor" group-title="Maç Yayınları",Hatayspor - Erzurumspor
-https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktrtspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Rams Başakşehir - Kocaelispor" group-title="Maç Yayınları",Rams Başakşehir - Kocaelispor
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports1/playlist.m3u8
+#EXTINF:-1 tvg-name="Hatayspor - Erzurumspor" group-title="Maç Yayınları",Hatayspor - Erzurumspor
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktrtspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Preussen Münster - Holstein Kiel" group-title="Maç Yayınları",Preussen Münster - Holstein Kiel
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktivibuspor4/playlist.m3u8
 #EXTINF:-1 tvg-name="Elversberg - Hannover 96" group-title="Maç Yayınları",Elversberg - Hannover 96
@@ -42,10 +42,10 @@ https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsportsmax1/playlist
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsportsmax1/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Hilal - Al Shabab" group-title="Maç Yayınları",Al Hilal - Al Shabab
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktrtspor/playlist.m3u8
-#EXTINF:-1 tvg-name="Hatayspor - Erzurumspor" group-title="Maç Yayınları",Hatayspor - Erzurumspor
-https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktrtspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Rams Başakşehir - Kocaelispor" group-title="Maç Yayınları",Rams Başakşehir - Kocaelispor
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports1/playlist.m3u8
+#EXTINF:-1 tvg-name="Hatayspor - Erzurumspor" group-title="Maç Yayınları",Hatayspor - Erzurumspor
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktrtspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Preussen Münster - Holstein Kiel" group-title="Maç Yayınları",Preussen Münster - Holstein Kiel
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktivibuspor4/playlist.m3u8
 #EXTINF:-1 tvg-name="Elversberg - Hannover 96" group-title="Maç Yayınları",Elversberg - Hannover 96

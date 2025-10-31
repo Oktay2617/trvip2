@@ -4,18 +4,20 @@
 #EXT-X-ORIGIN:https://main.uxsyplayerbcd362c475.click
 #EXTINF:-1 tvg-name="Al Hilal - Al Shabab" group-title="Maç Yayınları",Al Hilal - Al Shabab
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktrtspor/playlist.m3u8
-#EXTINF:-1 tvg-name="Hatayspor - Erzurumspor" group-title="Maç Yayınları",Hatayspor - Erzurumspor
-https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktrtspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Rams Başakşehir - Kocaelispor" group-title="Maç Yayınları",Rams Başakşehir - Kocaelispor
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports1/playlist.m3u8
-#EXTINF:-1 tvg-name="Elversberg - Hannover 96" group-title="Maç Yayınları",Elversberg - Hannover 96
-https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktivibuspor3/playlist.m3u8
+#EXTINF:-1 tvg-name="Hatayspor - Erzurumspor" group-title="Maç Yayınları",Hatayspor - Erzurumspor
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktrtspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Preussen Münster - Holstein Kiel" group-title="Maç Yayınları",Preussen Münster - Holstein Kiel
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktivibuspor4/playlist.m3u8
+#EXTINF:-1 tvg-name="Elversberg - Hannover 96" group-title="Maç Yayınları",Elversberg - Hannover 96
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktivibuspor3/playlist.m3u8
 #EXTINF:-1 tvg-name="PSV - Fortuna Sittard" group-title="Maç Yayınları",PSV - Fortuna Sittard
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktivibuspor2/playlist.m3u8
 #EXTINF:-1 tvg-name="Augsburg - B.Dortmund" group-title="Maç Yayınları",Augsburg - B.Dortmund
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktivibuspor1/playlist.m3u8
+#EXTINF:-1 tvg-name="Luton Town - Forest Green" group-title="Maç Yayınları",Luton Town - Forest Green
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktabiispor1/playlist.m3u8
 #EXTINF:-1 tvg-name="Getafe - Girona" group-title="Maç Yayınları",Getafe - Girona
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktivibuspor3/playlist.m3u8
 #EXTINF:-1 tvg-name="Sporting Lisbon - Alverca" group-title="Maç Yayınları",Sporting Lisbon - Alverca
@@ -26,8 +28,6 @@ https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports5/playlist.m3
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 tvg-name="Baskonia - Anadolu Efes" group-title="Maç Yayınları",Baskonia - Anadolu Efes
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukssport/playlist.m3u8
-#EXTINF:-1 tvg-name="B.Bencic - C.Bucsa" group-title="Maç Yayınları",B.Bencic - C.Bucsa
-https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsportsmax2/playlist.m3u8
 #EXTINF:-1 tvg-name="H.Sakatsume - M.Joint" group-title="Maç Yayınları",H.Sakatsume - M.Joint
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsportsmax2/playlist.m3u8
 #EXTINF:-1 tvg-name="A.Rodionova - J.Garland" group-title="Maç Yayınları",A.Rodionova - J.Garland
@@ -44,18 +44,20 @@ https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsportsmax1/playlist
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsportsmax1/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Hilal - Al Shabab" group-title="Maç Yayınları",Al Hilal - Al Shabab
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktrtspor/playlist.m3u8
-#EXTINF:-1 tvg-name="Hatayspor - Erzurumspor" group-title="Maç Yayınları",Hatayspor - Erzurumspor
-https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktrtspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Rams Başakşehir - Kocaelispor" group-title="Maç Yayınları",Rams Başakşehir - Kocaelispor
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports1/playlist.m3u8
-#EXTINF:-1 tvg-name="Elversberg - Hannover 96" group-title="Maç Yayınları",Elversberg - Hannover 96
-https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktivibuspor3/playlist.m3u8
+#EXTINF:-1 tvg-name="Hatayspor - Erzurumspor" group-title="Maç Yayınları",Hatayspor - Erzurumspor
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktrtspor/playlist.m3u8
 #EXTINF:-1 tvg-name="Preussen Münster - Holstein Kiel" group-title="Maç Yayınları",Preussen Münster - Holstein Kiel
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktivibuspor4/playlist.m3u8
+#EXTINF:-1 tvg-name="Elversberg - Hannover 96" group-title="Maç Yayınları",Elversberg - Hannover 96
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktivibuspor3/playlist.m3u8
 #EXTINF:-1 tvg-name="PSV - Fortuna Sittard" group-title="Maç Yayınları",PSV - Fortuna Sittard
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktivibuspor2/playlist.m3u8
 #EXTINF:-1 tvg-name="Augsburg - B.Dortmund" group-title="Maç Yayınları",Augsburg - B.Dortmund
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktivibuspor1/playlist.m3u8
+#EXTINF:-1 tvg-name="Luton Town - Forest Green" group-title="Maç Yayınları",Luton Town - Forest Green
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktabiispor1/playlist.m3u8
 #EXTINF:-1 tvg-name="Getafe - Girona" group-title="Maç Yayınları",Getafe - Girona
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcuktivibuspor3/playlist.m3u8
 #EXTINF:-1 tvg-name="Sporting Lisbon - Alverca" group-title="Maç Yayınları",Sporting Lisbon - Alverca

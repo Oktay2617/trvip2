@@ -2,15 +2,17 @@
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXT-X-REFERER:https://main.uxsyplayerbcd362c475.click/
 #EXT-X-ORIGIN:https://main.uxsyplayerbcd362c475.click
-#EXTINF:-1 tvg-name="Fransa - Ukrayna" group-title="Maç Yayınları",Fransa - Ukrayna
+#EXTINF:-1 tvg-name="Finlandiya - Malta" group-title="Maç Yayınları",Finlandiya - Malta
 https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcukexxen1/playlist.m3u8
-#EXTINF:-1 tvg-name="İngiltere - Sırbistan" group-title="Maç Yayınları",İngiltere - Sırbistan
+#EXTINF:-1 tvg-name="Lüksemburg - Almanya" group-title="Maç Yayınları",Lüksemburg - Almanya
+https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcukexxen1/playlist.m3u8
+#EXTINF:-1 tvg-name="Slovakya - Kuzey İrlanda" group-title="Maç Yayınları",Slovakya - Kuzey İrlanda
 https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcukexxen2/playlist.m3u8
-#EXTINF:-1 tvg-name="İrlanda - Portekiz" group-title="Maç Yayınları",İrlanda - Portekiz
+#EXTINF:-1 tvg-name="Polonya - Hollanda" group-title="Maç Yayınları",Polonya - Hollanda
 https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcukexxen3/playlist.m3u8
-#EXTINF:-1 tvg-name="Moldova - İtalya" group-title="Maç Yayınları",Moldova - İtalya
+#EXTINF:-1 tvg-name="Cebelitarık - Karadağ" group-title="Maç Yayınları",Cebelitarık - Karadağ
 https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcukexxen4/playlist.m3u8
-#EXTINF:-1 tvg-name="Andorra - Arnavutluk" group-title="Maç Yayınları",Andorra - Arnavutluk
+#EXTINF:-1 tvg-name="Hırvatistan - Faroe Adaları" group-title="Maç Yayınları",Hırvatistan - Faroe Adaları
 https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcukexxen5/playlist.m3u8
 #EXTINF:-1 tvg-name="Türkiye - Ukrayna" group-title="Maç Yayınları",Türkiye - Ukrayna
 https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcuktrtspor/playlist.m3u8
@@ -18,10 +20,10 @@ https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcuktrtspor/playlist.m3u8
 https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcukbeinsports5/playlist.m3u8
 #EXTINF:-1 tvg-name="Anadolu Efes - Bayern Münih" group-title="Maç Yayınları",Anadolu Efes - Bayern Münih
 https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcukssport/playlist.m3u8
-#EXTINF:-1 tvg-name="Olimpia Milano - Olympiakos" group-title="Maç Yayınları",Olimpia Milano - Olympiakos
-https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcukssport/playlist.m3u8
 #EXTINF:-1 tvg-name="Barcelona - Virtus Bologna" group-title="Maç Yayınları",Barcelona - Virtus Bologna
 https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcukssport2/playlist.m3u8
+#EXTINF:-1 tvg-name="Olimpia Milano - Olympiakos" group-title="Maç Yayınları",Olimpia Milano - Olympiakos
+https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcukssport/playlist.m3u8
 #EXTINF:-1 tvg-name="Villa/Jensen - Araujo/Prieto" group-title="Maç Yayınları",Villa/Jensen - Araujo/Prieto
 https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcukbeinsportsmax1/playlist.m3u8
 #EXTINF:-1 tvg-name="Senesi/Pons - Espana/Sanchez" group-title="Maç Yayınları",Senesi/Pons - Espana/Sanchez
@@ -30,15 +32,17 @@ https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcukbeinsportsmax1/playlist.
 https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcukbeinsportsmax1/playlist.m3u8
 #EXTINF:-1 tvg-name="Alonso/Tello - Chingotto/Galan" group-title="Maç Yayınları",Alonso/Tello - Chingotto/Galan
 https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcukbeinsportsmax1/playlist.m3u8
-#EXTINF:-1 tvg-name="Fransa - Ukrayna" group-title="Maç Yayınları",Fransa - Ukrayna
+#EXTINF:-1 tvg-name="Finlandiya - Malta" group-title="Maç Yayınları",Finlandiya - Malta
 https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcukexxen1/playlist.m3u8
-#EXTINF:-1 tvg-name="İngiltere - Sırbistan" group-title="Maç Yayınları",İngiltere - Sırbistan
+#EXTINF:-1 tvg-name="Lüksemburg - Almanya" group-title="Maç Yayınları",Lüksemburg - Almanya
+https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcukexxen1/playlist.m3u8
+#EXTINF:-1 tvg-name="Slovakya - Kuzey İrlanda" group-title="Maç Yayınları",Slovakya - Kuzey İrlanda
 https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcukexxen2/playlist.m3u8
-#EXTINF:-1 tvg-name="İrlanda - Portekiz" group-title="Maç Yayınları",İrlanda - Portekiz
+#EXTINF:-1 tvg-name="Polonya - Hollanda" group-title="Maç Yayınları",Polonya - Hollanda
 https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcukexxen3/playlist.m3u8
-#EXTINF:-1 tvg-name="Moldova - İtalya" group-title="Maç Yayınları",Moldova - İtalya
+#EXTINF:-1 tvg-name="Cebelitarık - Karadağ" group-title="Maç Yayınları",Cebelitarık - Karadağ
 https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcukexxen4/playlist.m3u8
-#EXTINF:-1 tvg-name="Andorra - Arnavutluk" group-title="Maç Yayınları",Andorra - Arnavutluk
+#EXTINF:-1 tvg-name="Hırvatistan - Faroe Adaları" group-title="Maç Yayınları",Hırvatistan - Faroe Adaları
 https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcukexxen5/playlist.m3u8
 #EXTINF:-1 tvg-name="Türkiye - Ukrayna" group-title="Maç Yayınları",Türkiye - Ukrayna
 https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcuktrtspor/playlist.m3u8
